@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="Pagehierarchy"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="a9029e82-e416-40b1-a712-bf9b89357263"
+        ClientSideComponentProperties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </CustomAction>
+</Elements>

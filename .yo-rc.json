@@ -1,0 +1,22 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.18.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.19.0",
+    "libraryName": "pagehierarchy",
+    "libraryId": "7f815b1c-b566-4246-b9c0-dfaa8d11b00c",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "pagehierarchy",
+    "solutionShortDescription": "pagehierarchy description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "extension",
+    "extensionType": "ApplicationCustomizer"
+  }
+}
